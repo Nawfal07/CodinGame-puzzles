@@ -1,6 +1,7 @@
 # CodinGame-puzzles
 
-Various :star2: solutions :star: for [Codingame](https://www.codingame.com/training) puzzles using JavaScript programming language ![JS](icon-javascript.svg)
+![JS](icon-javascript.svg)
+Various :star2: solutions :star: for [Codingame](https://www.codingame.com/training) puzzles using JavaScript programming language
 
 ## Easy
 
