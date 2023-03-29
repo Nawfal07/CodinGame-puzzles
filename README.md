@@ -8,6 +8,8 @@
 
 - [Mars Lander - Episode 1](/Easy/marsLander-ep01.js) _[Conditions]_ [![url](url.svg)](https://www.codingame.com/training/easy/mars-lander-episode-1)
 
+- [ASCII ART](/Easy/ascii-art.js) _[Conditions]_ _[Loops]_ _[Strings]_ [![url](url.svg)](https://www.codingame.com/training/easy/ascii-art)
+
 ## Medium
 
 - [SHADOWS OF THE KNIGHT - EPISODE 1](/Medium/marsLander-ep01.js) _[Conditions]_ [![url](url.svg)](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1/discuss)
