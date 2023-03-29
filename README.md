@@ -12,4 +12,4 @@
 
 ## Medium
 
-- [SHADOWS OF THE KNIGHT - EPISODE 1](/Medium/marsLander-ep01.js) _[Conditions]_ [![url](url.svg)](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1/discuss)
+- [SHADOWS OF THE KNIGHT - EPISODE 1](/Medium/shadowsOfTheKnight-ep01.js) _[Conditions]_ [![url](url.svg)](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)
