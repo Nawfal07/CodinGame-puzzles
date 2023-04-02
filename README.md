@@ -8,9 +8,9 @@
 
 - [Mars Lander - Episode 1](/Easy/marsLander-ep01.js) _[Conditions]_ [![url](url.svg)](https://www.codingame.com/training/easy/mars-lander-episode-1)
 
-- [ASCII ART](/Easy/ascii-art.js) _[Conditions]_ _[Loops]_ _[Strings]_ [![url](url.svg)](https://www.codingame.com/training/easy/ascii-art)
+- [ASCII art](/Easy/ascii-art.js) _[Conditions]_ _[Loops]_ _[Strings]_ [![url](url.svg)](https://www.codingame.com/training/easy/ascii-art)
 
-- [ASCII ART](/Easy/logic-gates.js) _[Logic]_ [![url](url.svg)](https://www.codingame.com/training/easy/logic-gates)
+- [Logic gates](/Easy/logic-gates.js) _[Logic]_ [![url](url.svg)](https://www.codingame.com/training/easy/logic-gates)
 
 ## Medium
 
