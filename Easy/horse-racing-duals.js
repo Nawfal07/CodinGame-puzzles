@@ -1,17 +1,22 @@
 const N = parseInt(readline());
 const horses = [];
+
+// Read input and populate array
 for (let i = 0; i < N; i++) {
   const pi = parseInt(readline());
   horses.push(pi);
 }
 
-let d = Infinity;
-horses
-  .sort((a, b) => a - b)
-  .forEach((horse, index) => {
-    if (index > 0 && horse - horses[index - 1] < d) {
-      d = horse - horses[index - 1];
-    }
-  });
+// Sort array in ascending order
+horses.sort((a, b) => a - b);
 
-console.log(d);
+// Find minimum difference between any two adjacent elements in sorted array
+let minDiff = Infinity;
+for (let i = 1; i < horses.length; i++) {
+  const diff = horses[i] - horses[i - 1];
+  if (diff < minDiff) {
+    minDiff = diff;
+  }
+}
+
+console.log(minDiff);
