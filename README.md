@@ -12,6 +12,8 @@
 
 - [Logic gates](/Easy/logic-gates.js) _[Logic]_ [![url](url.svg)](https://www.codingame.com/training/easy/logic-gates)
 
+- [Horse-racing duals](/Easy/horse-racing-duals.js) _[Loops]_ [![url](url.svg)](https://www.codingame.com/training/easy/horse-racing-duals)
+
 ## Medium
 
 - [SHADOWS OF THE KNIGHT - EPISODE 1](/Medium/shadowsOfTheKnight-ep01.js) _[Conditions]_ [![url](url.svg)](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)
