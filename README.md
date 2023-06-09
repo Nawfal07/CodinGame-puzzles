@@ -14,6 +14,8 @@
 
 - [Horse-racing duals](/Easy/horse-racing-duals.js) _[Loops]_ [![url](url.svg)](https://www.codingame.com/training/easy/horse-racing-duals)
 
+- [Unarry](/Easy/unary.js) _[String] [Encoding] [Loops] [Conditions]_ [![url](url.svg)](https://www.codingame.com/training/easy/unary)
+
 ## Medium
 
 - [SHADOWS OF THE KNIGHT - EPISODE 1](/Medium/shadowsOfTheKnight-ep01.js) _[Conditions]_ [![url](url.svg)](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)
