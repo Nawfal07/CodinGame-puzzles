@@ -14,7 +14,7 @@
 
 - [Horse-racing duals](/Easy/horse-racing-duals.js) _[Loops]_ [![url](url.svg)](https://www.codingame.com/training/easy/horse-racing-duals)
 
-- [Unarry](/Easy/unary.js) _[String] [Encoding] [Loops] [Conditions]_ [![url](url.svg)](https://www.codingame.com/training/easy/unary)
+- [Unary](/Easy/unary.js) _[Strings] [Encoding] [Loops] [Conditions]_ [![url](url.svg)](https://www.codingame.com/training/easy/unary)
 
 ## Medium
 
