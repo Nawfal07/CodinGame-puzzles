@@ -19,3 +19,5 @@
 ## Medium
 
 - [SHADOWS OF THE KNIGHT - EPISODE 1](/Medium/shadowsOfTheKnight-ep01.js) _[Conditions]_ [![url](url.svg)](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)
+
+- [DON'T PANIC - EPISODE 1](/Medium/dont-panic-ep01.js) _[Conditions]_ [![url](url.svg)](https://www.codingame.com/training/medium/don't-panic-episode-1)
