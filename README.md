@@ -18,7 +18,7 @@
 
 - [Mime Type](/Easy/mime-type.js) _[Strings] [Hash tables] [Loops] [Conditions]_ [![url](url.svg)](https://www.codingame.com/training/easy/mime-type)
 
-- [Defibrillators](/Easy/defibrillators .js) _[Loops] [Distances] [Trigonometry]_ [![url](url.svg)](https://www.codingame.com/training/easy/defibrillators)
+- [Defibrillators](/Easy/defibrillators.js) _[Loops] [Distances] [Trigonometry]_ [![url](url.svg)](https://www.codingame.com/training/easy/defibrillators)
 
 ## Medium
 
