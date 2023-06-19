@@ -16,6 +16,8 @@
 
 - [Unary](/Easy/unary.js) _[Strings] [Encoding] [Loops] [Conditions]_ [![url](url.svg)](https://www.codingame.com/training/easy/unary)
 
+- [Mime Type](/Easy/mime-type.js) _[Strings] [Hash tables] [Loops] [Conditions]_ [![url](url.svg)](https://www.codingame.com/training/easy/mime-type)
+
 ## Medium
 
 - [SHADOWS OF THE KNIGHT - EPISODE 1](/Medium/shadowsOfTheKnight-ep01.js) _[Conditions]_ [![url](url.svg)](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)
