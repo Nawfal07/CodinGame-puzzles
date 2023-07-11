@@ -26,6 +26,6 @@
 
 - [DON'T PANIC - EPISODE 1](/Medium/dont-panic-ep01.js) _[Conditions]_ [![url](url.svg)](https://www.codingame.com/training/medium/don't-panic-episode-1)
 
-- [THE FALL - EPISODE 1](/Medium/the-fall-ep01.js) _[BFS]_ _[Graphs]_ [![url](url.svg)](https://www.codingame.com/training/medium/the-fall-episode-1)
+- [THE FALL - EPISODE 1](/Medium/the-fall-ep01.js) _[Conditions]_ [![url](url.svg)](https://www.codingame.com/training/medium/the-fall-episode-1)
 
-- [DEATH FIRST SEARCH - EPISODE 1](/Medium/death-first-search-episode-1 .js) _[Conditions]_ [![url](url.svg)](https://www.codingame.com/training/medium/death-first-search-episode-1/solution)
+- [DEATH FIRST SEARCH - EPISODE 1](/Medium/death-first-search-episode-1.js) _[BFS]_ _[Graphs]_ [![url](url.svg)](https://www.codingame.com/training/medium/death-first-search-episode-1/solution)
